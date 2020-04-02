@@ -29,3 +29,4 @@ export {
   disconnect,
   subscribeToNewDevs,
 };
+//teste
